@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   sodipodi:docname="large-logo.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   id="svg5"
+   version="1.1"
+   viewBox="0 0 66.145873 52.916657"
+   height="52.916656mm"
+   width="66.145874mm"
+   inkscape:export-filename="vistro-512-logo.png"
+   inkscape:export-xdpi="196.60788"
+   inkscape:export-ydpi="196.60788"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.9077568"
+     inkscape:cx="-7297.3138"
+     inkscape:cy="-583.4077"
+     inkscape:window-width="1440"
+     inkscape:window-height="792"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6635">
+      <stop
+         style="stop-color:#21a9d7;stop-opacity:0.98156685;"
+         offset="0"
+         id="stop6631" />
+      <stop
+         style="stop-color:#e070e8;stop-opacity:0.67058825;"
+         offset="0.52680212"
+         id="stop6639" />
+      <stop
+         style="stop-color:#52b4ef;stop-opacity:0.5411765;"
+         offset="0.73699123"
+         id="stop6641" />
+      <stop
+         style="stop-color:#6db1ff;stop-opacity:0.27649769;"
+         offset="1"
+         id="stop6633" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6635"
+       id="linearGradient6637"
+       x1="-6633.0967"
+       y1="-575.30737"
+       x2="-6623.5269"
+       y2="-1072.925"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.170756,0,0,-0.170756,-3221.216,-391.56683)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6635"
+       id="linearGradient6713"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.170756,0,0,-0.170756,-3220.9417,-391.56683)"
+       x1="-6633.0967"
+       y1="-575.30737"
+       x2="-6623.5269"
+       y2="-1072.925" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(2115.197,279.5075)">
+    <g
+       id="g6718"
+       transform="matrix(1.1168132,0,0,1.1287504,285.99939,26.438472)"
+       inkscape:export-filename="logo.svg"
+       inkscape:export-xdpi="53.759998"
+       inkscape:export-ydpi="53.759998">
+      <g
+         aria-label="V"
+         id="text6705"
+         style="font-size:35.2777px;font-family:Charter;-inkscape-font-specification:'Charter, Normal';opacity:0.91;fill:#ffffff"
+         transform="matrix(1.9664732,0,0,1.9664732,2055.8284,239.30653)" />
+      <path
+         id="path6643"
+         style="opacity:0.91;fill:url(#linearGradient6637);stroke-width:0.170756"
+         inkscape:transform-center-x="-11.320179"
+         inkscape:transform-center-y="-0.88772108"
+         d="m -2129.3506,-262.37851 38.2606,16.01256 -37.768,18.77484 z m 0.109,-0.44937 38.0698,16.70703 -37.7951,18.42081 z m -20.8014,-8.22051 h 16.1575 v 2.77763 l -4.0309,0.40647 -0.7451,0.98233 13.0413,34.95731 12.5331,-34.95731 -0.6775,-0.98233 -4.302,-0.40647 v -2.77763 h 13.8204 v 2.77763 l -4.3019,0.81296 -15.9544,43.29016 h -4.81 l -16.2932,-43.29016 -4.4373,-0.81296 z" />
+      <path
+         id="path6711"
+         style="opacity:0.91;fill:url(#linearGradient6713);stroke-width:0.170756"
+         inkscape:transform-center-x="-11.320179"
+         inkscape:transform-center-y="-0.88772108"
+         d="m -2129.0763,-262.37851 38.2606,16.01256 -37.768,18.77484 z m 0.109,-0.44937 38.0698,16.70703 -37.7951,18.42081 z m -20.8014,-8.22051 h 16.1575 v 2.77763 l -4.0309,0.40647 -0.7451,0.98233 13.0413,34.95731 12.5331,-34.95731 -0.6775,-0.98233 -4.302,-0.40647 v -2.77763 h 13.8204 v 2.77763 l -4.3019,0.81296 -15.9544,43.29016 h -4.81 l -16.2932,-43.29016 -4.4373,-0.81296 z" />
+    </g>
+  </g>
+</svg>
